@@ -26,7 +26,7 @@ export default function Featured({ type }) {
         </div>
       )}
       <img
-        src="https://images.pexels.com/photos/6899260/pexels-photo-6899260.jpeg?auto=compress&cs=tinysrgb&dpr=2&w=500"
+        src="https://www.indiewire.com/wp-content/uploads/2017/10/matrix-code.jpg"
         alt=""
       />
       <div className="info">
